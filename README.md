@@ -1,4 +1,6 @@
-# awesome lawtech [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# awesome lawtech
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > A community-curated list of awesome lawtech software and learning resources for legal technology and design.
 
@@ -8,7 +10,7 @@ Please read our [contribution guidelines](CONTRIBUTING.md) to find out how you c
 
 ## Key
 
-:star: - Free and open source software.
+:star: - Free and open source.
 
 :heart: - Available free of charge to access to justice oriented organizations.
 
